@@ -1,0 +1,10 @@
+- Hi, I’m @DarkElfDev
+--
+- I’m currently looking for work in UX/UI
+- I’m interested in Game Development
+- I’m currently learning Front End Development:
+--- HTML
+--- CSS
+--- JS
+--- BS
+- How to reach me: eve@darkelf.dev
